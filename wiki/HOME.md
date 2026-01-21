@@ -175,5 +175,5 @@ Nous accueillons les contributions ! Consultez le **[Guide de Développement](./
 ---
 
 **Version** : 1.0
-**Dernière mise à jour** : 2025-11-17
+**Dernière mise à jour** : 2026-01-21
 **Licence** : MIT
